@@ -340,6 +340,6 @@ var iframe = document.getElementById('dappIframe')
 
 iframe.onload = function() {
 
-  initConnection(iframe, 'http://localhost:63342')
+  initConnection(iframe, 'https://quiet-macaron-d5052f.netlify.app')
 }
 
